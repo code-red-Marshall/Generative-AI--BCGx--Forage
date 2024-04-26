@@ -22,7 +22,11 @@ Project context:
 
 Our goal is to extract meaningful insights from 10-K financial reports.
 These insights will feed into the AI chatbot, enabling it to provide in-depth financial performance analysis.
- 
+
+## Task 1- 
+- Extract financial data from provided 10-K documents.
+- Conduct a basic analysis to identify significant financial trends and indicators.
+- Format and clean the data for further processing in an AI model.
 
 ## Role and Responsibilities
 
@@ -41,11 +45,6 @@ These insights will feed into the AI chatbot, enabling it to provide in-depth fi
   - A comprehensive data analysis report, which should include:
     - your findings
     - a summary providing insights into the financial health of the analyzed companies.
-
-## Task 1- 
-- Extract financial data from provided 10-K documents.
-- Conduct a basic analysis to identify significant financial trends and indicators.
-- Format and clean the data for further processing in an AI model.
 
 ## Task 2-
 - Develop an AI chatbot that can analyze financial data and provide insights.
