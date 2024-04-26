@@ -5,6 +5,9 @@
 
 ## Understanding the project requirements
 
+![1669905904765](https://github.com/code-red-Marshall/Data-Science---BCG-X--Forage/assets/82904501/c1ec806c-1a06-4015-9281-51911a0c97ae)
+
+
 Contextualizing AI in finance: This task immerses you in the real-world application of AI in finance. 
 
 Identifying key financial indicators: The ability to discern which data points are critical for financial assessment is fundamental. 
